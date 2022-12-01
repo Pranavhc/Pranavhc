@@ -1,5 +1,6 @@
 <p align="center">
-    <p color="#00e5ff" style="color:#00e5ff;font-size:1.8rem" align="center">Pranav Chandane</p>
+    <h1 color="#00e5ff" style="color:#00e5ff;font-size:1.8rem" align="center">Pranav Chandane</h1>
+    ## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 </p>
 
 <p align="center">
