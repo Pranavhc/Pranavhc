@@ -10,7 +10,7 @@
 
 <details open> 
   <summary> <h2>📘 My Repositories</h2> </summary>
-    <p>These projects are created just to learn a particular technology or language.</p>
+    <p>These projects are created just to learn particular technologies and languages.</p>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
