@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Pranavhc">
-   <h1 color="#00e5ff" align="center">Pranav Chandane</h1>
+    <span style="color:#00e5ff; align:center;">Pranav Chandane</span>
   </a>
 </p>
 
