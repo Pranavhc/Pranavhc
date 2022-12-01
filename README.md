@@ -1,7 +1,5 @@
 <p align="center">
-  <a style="text-style:none" href="https://github.com/Pranavhc">
     <p style="color:#00e5ff; align:center;">Pranav Chandane</p>
-  </a>
 </p>
 
 <p align="center">
