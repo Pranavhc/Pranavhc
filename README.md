@@ -12,8 +12,6 @@
   <summary> <h2>📘 My Repositories</h2> </summary>
     <p>These projects are created just to learn particular technologies and languages.</p>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
     <!--  -->
