@@ -4,13 +4,13 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <details open> 
   <summary> <h2>📘 My Repositories</h2> </summary>
-    <p>These projects are created just to learn the technology or language in use.</p>
+    <p>These projects are created just to learn a particular technology or language.</p>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -25,7 +25,7 @@
     <a href="https://github.com/Pranavhc/Task-Buddy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Task-Buddy&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit"></a>
   
   </p>
-  <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
 
@@ -38,21 +38,21 @@
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <!--  -->
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <!--  -->
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
@@ -110,7 +110,7 @@
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -126,7 +126,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="#"><img alt="Pranavhc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pranavhc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD" height="192px"/></a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="192px"></a>
+  <a href="#"><img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="192px"></a>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="#"><img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
