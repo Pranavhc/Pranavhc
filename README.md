@@ -110,24 +110,26 @@
   </p>
 </details>
 
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+<details open> 
+  <summary><h2>📊 Github Stats</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="#">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Pranavhc&theme=react&background=1F222E&hide_border=true"/>
-    </a>
-  </p>
+  <a href="#">
+    <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+  </br>
+  </br>
+  <a href="#">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Pranavhc&theme=react&background=1F222E&hide_border=true" height="200px"/>
+  </a>
+  </br>
+  </br>
+  <a href="#">
+    <img alt="Pranavhc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pranavhc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD" height="190px"/>
+  </a>
+  </br>
+  </br>
+  <a href="#">
+    <img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="220px">
+  </a>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="#"><img alt="Pranavhc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pranavhc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD" height="192px"/></a>
-  
-  <a href="#"><img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="192px"></a>
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="#"><img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
