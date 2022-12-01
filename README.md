@@ -129,7 +129,7 @@
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Github Stats</h2></summary>
   <p>🪨 Contribution Graph</p>
   <a href="#">
