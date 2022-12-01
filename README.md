@@ -1,5 +1,5 @@
 <p align="center">
-    <p style="color:#00e5ff; text-align:center;">Pranav Chandane</p>
+    <h1 style="color:#00e5ff;" align="center">Pranav Chandane</h1>
 </p>
 
 <p align="center">
