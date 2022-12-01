@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Pranavhc">
-   <h1>Pranav Chandane</h1>
+   <h1 style="text-align: center">Pranav Chandane</h1>
   </a>
 </p>
 
