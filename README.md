@@ -136,15 +136,18 @@
     <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" height="220"/>
   </a>
   </br>
+  </br>
   <p>⚡ Github Streak</p>
   <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Pranavhc&theme=react&background=1F222E&hide_border=true" height="200px"/>
   </a>
   </br>
+  </br>
   <p>❄️ Github Stats</p>
   <a href="#">
     <img alt="Pranavhc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pranavhc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD" height="190px"/>
   </a>
+  </br>
   </br>
   <p>🔥 Most Used Languages</p>
   <a href="#">
