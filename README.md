@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <details open> 
   <summary> <h2>📘 My Repositories</h2> </summary>
-    <p>These projects are created just to learn particular technologies and languages.</p>
+    <p>❄️ These projects are created just to learn particular technologies and languages.</p>
 
   <p align="left">
     <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
@@ -28,11 +27,9 @@
 
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools</h2>
+  <summary><h2>🛠️ My Tools</h2>
   </summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Programming / Markup Languages</h3>
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-0d1117.svg?logo=c-in-hexagon&logoColor=blue"></a>
       <!--  -->
@@ -59,7 +56,7 @@
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>📚 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-0d1117.svg?logo=express&logoColor=white"></a>
       <!--  -->
@@ -70,7 +67,7 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🗄️ Database and Cloud Hosting</h3>
   <p>
       <!--  -->
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-0d1117.svg?logo=mongodb&logoColor=green"></a>
@@ -132,26 +129,31 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats</h2></summary>
-
+  <p>🪨 Contribution Graph</p>
   <a href="#">
     <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" height="220"/>
   </a>
   </br>
   </br>
+  <p>⚡ Github Streak</p>
   <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Pranavhc&theme=react&background=1F222E&hide_border=true" height="200px"/>
   </a>
   </br>
   </br>
+  <p>❄️ Github Stats</p>
   <a href="#">
     <img alt="Pranavhc's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pranavhc&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD" height="190px"/>
   </a>
   </br>
   </br>
+  <p>🔥 Most Used Languages</p>
   <a href="#">
     <img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavhc&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="220px">
   </a>
 
 </details>
+
+<!-- I've used DenverCoder1's readme.md contents: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
