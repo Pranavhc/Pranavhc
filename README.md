@@ -1,21 +1,16 @@
 <p align="center">
-    <h1 style="color:#00e5ff;" align="center">Pranav Chandane</h1>
+    <h1 color="#00e5ff" style="color:#00e5ff;" align="center">Pranav Chandane</h1>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00e5ff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
-<br/>
-
 <details open> 
-  <summary>
-  <h2>📘 My Repositories</h2>
-    <p style="margin:1rem 1.4rem">These projects are created just to learn the technology or language in use.</p>
-  
-  </summary>
+  <summary> <h2>📘 My Repositories</h2> </summary>
+    <p>These projects are created just to learn the technology or language in use.</p>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
