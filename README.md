@@ -34,101 +34,101 @@
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-121011.svg?logo=c-in-hexagon&logoColor=blue"></a>
+      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-0d1117.svg?logo=c-in-hexagon&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-121011.svg?logo=cpp2&logoColor=blue"></a>
+      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-0d1117.svg?logo=cpp2&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-121011.svg?logo=rust&logoColor=red"></a>
+      <a href="#"><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-0d1117.svg?logo=rust&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-121011.svg?logo=html5&logoColor=red"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117.svg?logo=html5&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-121011.svg?logo=css3&logoColor=blue"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117.svg?logo=css3&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-121011.svg?logo=javascript&logoColor=yellow"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117.svg?logo=javascript&logoColor=yellow"></a>
       <!--  -->
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121011.svg?logo=typescript&logoColor=blue"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117.svg?logo=typescript&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-121011.svg?logo=node.js&logoColor=green"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117.svg?logo=node.js&logoColor=green"></a>
       <!--  -->
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-121011.svg?logo=python&logoColor=white"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117.svg?logo=python&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-121011.svg?logo=dart&logoColor=blue"></a>
+      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0d1117.svg?logo=dart&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-121011.svg?logo=java&logoColor=red"></a>
+      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0d1117.svg?logo=java&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-121011.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-0d1117.svg?logo=express&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-121011.svg?logo=Flutter&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117.svg?logo=Flutter&logoColor=%2361DAFB"></a>
       <!--  -->
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-121011.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117.svg?logo=react&logoColor=%2361DAFB"></a>
       <!--  -->
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-121011.svg?logo=bootstrap&logoColor=default"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
       <!--  -->
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-121011.svg?logo=mongodb&logoColor=green"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-0d1117.svg?logo=mongodb&logoColor=green"></a>
       <!--  -->
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-121011.svg?logo=heroku&logoColor=violet"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-0d1117.svg?logo=heroku&logoColor=violet"></a>
       <!--  -->
-      <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-121011.svg?logo=netlify&logoColor=aqua"></a>
+      <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-0d1117.svg?logo=netlify&logoColor=aqua"></a>
       <!--  -->
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-121011.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0d1117.svg?logo=github&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-121011.svg?logo=render&logoColor=white"></a>
+      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-0d1117.svg?logo=render&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-121011.svg?logo=Replit&logoColor=orange"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0d1117.svg?logo=Replit&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-121011.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117.svg?logo=notion&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
   <p>
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-121011?logo=windows&logoColor=blue"></a>
+      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-121011.svg?logo=linux&logoColor=white"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117.svg?logo=linux&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Virtualbox" src="https://img.shields.io/badge/Virtualbox-121011.svg?logo=virtualbox&logoColor=white"></a>
+      <a href="#"><img alt="Virtualbox" src="https://img.shields.io/badge/Virtualbox-0d1117.svg?logo=virtualbox&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-121011.svg?logo=fedora&logoColor=blue"></a>
+      <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0d1117.svg?logo=fedora&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-121011?logo=android&logoColor=green"></a>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-0d1117?logo=android&logoColor=green"></a>
       <!--  -->
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-121011.svg?logo=visual-studio-code&logoColor=blue"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0d1117.svg?logo=visual-studio-code&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-121011.svg?logo=visual-studio&logoColor=blue"></a>
+      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0d1117.svg?logo=visual-studio&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="windows terminal" src="https://img.shields.io/badge/Windows%20terminal-121011.svg?logo=windows-terminal&logoColor=white"></a>
+      <a href="#"><img alt="windows terminal" src="https://img.shields.io/badge/Windows%20terminal-0d1117.svg?logo=windows-terminal&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-121011.svg?logo=android-studio&logoColor=blue"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0d1117.svg?logo=android-studio&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="IntelliJ-idea" src="https://img.shields.io/badge/IntelliJ%20Idea-121011.svg?logo=intelliJ-idea&logoColor=orange"></a>
+      <a href="#"><img alt="IntelliJ-idea" src="https://img.shields.io/badge/IntelliJ%20Idea-0d1117.svg?logo=intelliJ-idea&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-121011.svg?logo=git&logoColor=red"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117.svg?logo=git&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117.svg?logo=github&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-121011.svg?logo=discord&logoColor=light-blue"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-0d1117.svg?logo=discord&logoColor=light-blue"></a>
       <!--  -->
-      <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-121011.svg?logo=Reddit&logoColor=light-blue"></a>
+      <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-0d1117.svg?logo=Reddit&logoColor=light-blue"></a>
       <!--  -->
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-121011?logo=postman&logoColor=orange"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-0d1117?logo=postman&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="firefox" src="https://img.shields.io/badge/Firefox-121011.svg?logo=firefox&logoColor=orange"></a>
+      <a href="#"><img alt="firefox" src="https://img.shields.io/badge/Firefox-0d1117.svg?logo=firefox&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-121011.svg?logo=sublime-text&logoColor=orange"></a>
+      <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-0d1117.svg?logo=sublime-text&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-121011.svg?logo=figma&logoColor=red"></a>
+      <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-0d1117.svg?logo=figma&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-121011?logo=stack-overflow&logoColor=orange"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stack-overflow&logoColor=orange"></a>
       <!--  -->
-      <a href="#"><img alt="Google docs" src="https://img.shields.io/badge/Docs-121011.svg?logo=google%20sheets&logoColor=blue"></a>
+      <a href="#"><img alt="Google docs" src="https://img.shields.io/badge/Docs-0d1117.svg?logo=google%20sheets&logoColor=blue"></a>
   </p>
 </details>
 
