@@ -12,14 +12,14 @@
     <p>❄️ These projects are created just to learn particular technologies and languages.</p>
 
   <p align="left">
-    <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
     <!--  -->
-    <a href="https://github.com/Pranavhc/stickynotes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=stickynotes.github.io&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Pranavhc/stickynotes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=stickynotes.github.io&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="stickynotes.github.io"></a>
     <!--  -->
-    <a href="https://github.com/Pranavhc/guessing_game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Pranavhc&repo=guessing_game&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Pranavhc/guessing_game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Pranavhc&repo=guessing_game&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="guessing_game"></a>
     <!--  -->
-    <a href="https://github.com/Pranavhc/Jobs-Api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Jobs-Api&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="unicode-formatter"></a>
-    <a href="https://github.com/Pranavhc/Task-Buddy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Task-Buddy&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/Pranavhc/Jobs-Api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Jobs-Api&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="Jobs-Api"></a>
+    <a href="https://github.com/Pranavhc/Task-Buddy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Task-Buddy&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="Task-Buddy"></a>
   
   </p>
   <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
