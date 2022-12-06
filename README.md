@@ -129,12 +129,12 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats</h2></summary>
-  <p>🪨 Contribution Graph</p>
-  <a href="#">
-    <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" height="220"/>
-  </a>
+  <!-- currently not deployed - <p>🪨 Contribution Graph</p> -->
+  <!-- <a href="#"> -->
+    <!-- <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" height="220"/> -->
+  <!-- </a> -->
   </br>
   </br>
   <p>⚡ Github Streak</p>
