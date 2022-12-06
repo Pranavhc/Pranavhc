@@ -53,7 +53,7 @@
       <!--  -->
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0d1117.svg?logo=java&logoColor=red"></a>
       <!--  -->
-      <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117.svg?logo=gnu-bash&logoColor=white"></a>
+      <!-- <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117.svg?logo=gnu-bash&logoColor=white"></a> -->
   </p>
 
   <h3>📚 Frameworks and Libraries</h3>
@@ -135,8 +135,8 @@
   <!-- <a href="#"> -->
     <!-- <img alt="Pranavhc's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Pranavhc&bg_color=1F222E&color=00C3DD&line=F85D7F&point=FFFFFF&hide_border=true" height="220"/> -->
   <!-- </a> -->
-  </br>
-  </br>
+  <!-- </br> -->
+  <!-- </br> -->
   <p>⚡ Github Streak</p>
   <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=Pranavhc&theme=react&background=1F222E&hide_border=true" height="200px"/>
@@ -153,7 +153,6 @@
   <a href="#">
     <img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavhc&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="220px">
   </a>
-
 </details>
 
 <!-- I've used DenverCoder1's readme.md contents: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
