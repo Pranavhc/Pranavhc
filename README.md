@@ -129,6 +129,7 @@
   </p>
 </details>
 
+<!--
 <details open> 
   <summary><h2>📊 Github Stats</h2></summary>
   <!-- currently not deployed - <p>🪨 Contribution Graph</p> -->
@@ -154,5 +155,5 @@
     <img alt="Pranavhc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavhc&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C3DD&icon_color=00C3DD&hide=Jupyter%20Notebook" height="220px">
   </a>
 </details>
-
+-->
 <!-- I've used DenverCoder1's readme.md contents: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
