@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20IT%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <details open> 
