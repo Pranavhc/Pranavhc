@@ -62,8 +62,6 @@
       <!--  -->
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117.svg?logo=Flutter&logoColor=%2361DAFB"></a>
       <!--  -->
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117.svg?logo=react&logoColor=%2361DAFB"></a>
-      <!--  -->
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
   </p>
 
