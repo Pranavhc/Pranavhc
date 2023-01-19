@@ -83,49 +83,6 @@
       <!--  -->
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117.svg?logo=notion&logoColor=white"></a>
   </p>
-
-  <!-- <h3>💻 Software and Tools</h3> -->
-  <!-- <p>
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117.svg?logo=linux&logoColor=white"></a>
-      <!--  -->
-      <a href="#"><img alt="Virtualbox" src="https://img.shields.io/badge/Virtualbox-0d1117.svg?logo=virtualbox&logoColor=white"></a>
-      <!--  -->
-      <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0d1117.svg?logo=fedora&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-0d1117?logo=android&logoColor=green"></a>
-      <!--  -->
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0d1117.svg?logo=visual-studio-code&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0d1117.svg?logo=visual-studio&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="windows terminal" src="https://img.shields.io/badge/Windows%20terminal-0d1117.svg?logo=windows-terminal&logoColor=white"></a>
-      <!--  -->
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0d1117.svg?logo=android-studio&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="IntelliJ-idea" src="https://img.shields.io/badge/IntelliJ%20Idea-0d1117.svg?logo=intelliJ-idea&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-0d1117.svg?logo=git&logoColor=red"></a>
-      <!--  -->
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117.svg?logo=github&logoColor=white"></a>
-      <!--  -->
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-0d1117.svg?logo=discord&logoColor=light-blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-0d1117.svg?logo=Reddit&logoColor=light-blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-0d1117?logo=postman&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="firefox" src="https://img.shields.io/badge/Firefox-0d1117.svg?logo=firefox&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-0d1117.svg?logo=sublime-text&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-0d1117.svg?logo=figma&logoColor=red"></a>
-      <!--  -->
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stack-overflow&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="Google docs" src="https://img.shields.io/badge/Docs-0d1117.svg?logo=google%20sheets&logoColor=blue"></a>
-  </p> -->
 </details>
 
 <!-- 
