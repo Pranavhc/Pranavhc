@@ -1,3 +1,6 @@
+<!-- I've used DenverCoder1's readme.md contents: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
+
+
 <p align="center">
     <h1 color="#00e5ff" style="color:#00e5ff;font-size:1.8rem" align="center">Pranav Chandane</h1>
 </p>
@@ -7,14 +10,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20IT%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
-<details open> 
+<details> 
   <summary> <h2>📘 My Repositories</h2> </summary>
-    <p>❄️ These projects are created just to learn particular technologies and languages.</p>
-
   <p align="left">
     <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
     <!--  -->
-    <a href="https://github.com/Pranavhc/rusted-tasks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=rusted-tasks&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
+    <a href="https://github.com/Pranavhc/rusted-tasks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=rusted-tasks&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="rusted-tasks"></a>
     <!--  -->
     <a href="https://github.com/Pranavhc/stickynotes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=stickynotes.github.io&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="stickynotes.github.io"></a>
     <!--  -->
@@ -27,10 +28,8 @@
   <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
-
 <details open> 
-  <summary><h2>🛠️ My Tools</h2>
-  </summary>
+  <summary><h2>🛠️ My Tools</h2></summary>
   <h3>👨‍💻 Programming / Markup Languages</h3>
   <p>
       <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-0d1117.svg?logo=c-in-hexagon&logoColor=blue"></a>
@@ -85,8 +84,8 @@
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117.svg?logo=notion&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
-  <p>
+  <!-- <h3>💻 Software and Tools</h3> -->
+  <!-- <p>
       <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0d1117?logo=windows&logoColor=blue"></a>
       <!--  -->
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-0d1117.svg?logo=linux&logoColor=white"></a>
@@ -126,7 +125,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-0d1117?logo=stack-overflow&logoColor=orange"></a>
       <!--  -->
       <a href="#"><img alt="Google docs" src="https://img.shields.io/badge/Docs-0d1117.svg?logo=google%20sheets&logoColor=blue"></a>
-  </p>
+  </p> -->
 </details>
 
 <!-- 
@@ -157,4 +156,3 @@
 <!-- </details> -->
 
 
-<!-- I've used DenverCoder1's readme.md contents: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
