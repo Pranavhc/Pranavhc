@@ -14,6 +14,8 @@
   <p align="left">
     <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
     <!--  -->
+    <a href="https://github.com/Pranavhc/rusted-tasks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=rusted-tasks&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
+    <!--  -->
     <a href="https://github.com/Pranavhc/stickynotes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=stickynotes.github.io&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="stickynotes.github.io"></a>
     <!--  -->
     <a href="https://github.com/Pranavhc/guessing_game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Pranavhc&repo=guessing_game&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="guessing_game"></a>
