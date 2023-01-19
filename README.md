@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20Information%20Technology%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20An%20IT%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=35&color=00e5ff&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
 <details open> 
@@ -63,8 +63,6 @@
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-0d1117.svg?logo=express&logoColor=white"></a>
       <!--  -->
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117.svg?logo=Flutter&logoColor=%2361DAFB"></a>
-      <!--  -->
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117.svg?logo=react&logoColor=%2361DAFB"></a>
       <!--  -->
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
   </p>
