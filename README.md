@@ -27,7 +27,6 @@
   </p>
   <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
-
 <details> 
   <summary><h2>🛠️ My Tools</h2></summary>
   <h3>👨‍💻 Programming / Markup Languages</h3>
