@@ -11,33 +11,11 @@
 </p>
 
 <details> 
-  <summary> <h2>📘 My Repositories</h2> </summary>
-  <p align="left">
-    <a href="https://github.com/Pranavhc/wrestling_competition_rust_program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=wrestling_competition_rust&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="wrestling_competition_rust_program"></a>
-    <!--  -->
-    <a href="https://github.com/Pranavhc/rusted-tasks"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=rusted-tasks&theme=radical&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="rusted-tasks"></a>
-    <!--  -->
-    <a href="https://github.com/Pranavhc/stickynotes.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=stickynotes.github.io&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="stickynotes.github.io"></a>
-    <!--  -->
-    <a href="https://github.com/Pranavhc/guessing_game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Pranavhc&repo=guessing_game&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="guessing_game"></a>
-    <!--  -->
-    <a href="https://github.com/Pranavhc/Jobs-Api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Jobs-Api&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="Jobs-Api"></a>
-    <a href="https://github.com/Pranavhc/Task-Buddy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pranavhc&repo=Task-Buddy&theme=react&bg_color=1F222E&title_color=00e5ff&hide_border=true&icon_color=F8D866&show_icons=true" alt="Task-Buddy"></a>
-  
-  </p>
-  <a href="https://github.com/Pranavhc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
-</details>
-<details> 
-  <summary><h2>🛠️ My Tools</h2></summary>
-  <h3>👨‍💻 Programming / Markup Languages</h3>
+  <summary><h2>🛠️ Tools I Use</h2></summary>
+    <p>&emsp; Just to let you know what I'm familiar with.</p>
+  <h3>&emsp;👨‍💻 Programming / Markup Languages</h3>
   <p>
-      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-0d1117.svg?logo=c-in-hexagon&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-0d1117.svg?logo=cpp2&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-0d1117.svg?logo=rust&logoColor=red"></a>
-      <!--  -->
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117.svg?logo=html5&logoColor=red"></a>
+      &emsp;&emsp;&emsp;<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117.svg?logo=html5&logoColor=red"></a>
       <!--  -->
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117.svg?logo=css3&logoColor=blue"></a>
       <!--  -->
@@ -45,32 +23,28 @@
       <!--  -->
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117.svg?logo=typescript&logoColor=blue"></a>
       <!--  -->
-      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117.svg?logo=node.js&logoColor=green"></a>
-      <!--  -->
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117.svg?logo=python&logoColor=white"></a>
       <!--  -->
+      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-0d1117.svg?logo=cpp2&logoColor=blue"></a>
+      <!--  -->
+      <a href="#"><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-0d1117.svg?logo=rust&logoColor=red"></a>
+      <!--  -->
       <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0d1117.svg?logo=dart&logoColor=blue"></a>
-      <!--  -->
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0d1117.svg?logo=java&logoColor=red"></a>
-      <!--  -->
-      <!-- <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-0d1117.svg?logo=gnu-bash&logoColor=white"></a> -->
   </p>
 
-  <h3>📚 Frameworks and Libraries</h3>
+  <h3>&emsp;📚 Frameworks / Libraries</h3>
   <p>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-0d1117.svg?logo=express&logoColor=white"></a>
+      &emsp;&emsp;&emsp;<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-0d1117.svg?logo=express&logoColor=white"></a>
       <!--  -->
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117.svg?logo=Flutter&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-0d1117.svg?logo=Flutter&logoColor=%2361DAFB"></a>
       <!--  -->
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
+     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-0d1117.svg?logo=bootstrap&logoColor=default"></a>
   </p>
 
-  <h3>🗄️ Database and Cloud Hosting</h3>
-  <p>
+  <h3>&emsp;🗄️ Database / Hosting</h3>
+  <p>&emsp;&emsp;&emsp;
       <!--  -->
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-0d1117.svg?logo=mongodb&logoColor=green"></a>
-      <!--  -->
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-0d1117.svg?logo=heroku&logoColor=violet"></a>
       <!--  -->
       <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-0d1117.svg?logo=netlify&logoColor=aqua"></a>
       <!--  -->
@@ -79,8 +53,6 @@
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-0d1117.svg?logo=render&logoColor=white"></a>
       <!--  -->
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0d1117.svg?logo=Replit&logoColor=orange"></a>
-      <!--  -->
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-0d1117.svg?logo=notion&logoColor=white"></a>
   </p>
 </details>
 
