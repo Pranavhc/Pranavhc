@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.pinimg.com/originals/96/9f/23/969f2333a769697a586049bf9019cd8a.gif" width="1000" height="360"/></p> </br>
+<p align="center"><img src="https://i.pinimg.com/originals/96/9f/23/969f2333a769697a586049bf9019cd8a.gif" width="900" height="260"/></p> </br>
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Studying%20Deep%20learning%20|%20Machine%20Learning&font=Fira%20Code&center=false&width=1000&height=35&color=ffffff&Center=false&pause=1000&size=22" /></a>
 
 ## Familiar with:
